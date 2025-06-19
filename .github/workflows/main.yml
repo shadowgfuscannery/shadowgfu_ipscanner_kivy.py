@@ -32,3 +32,4 @@ jobs:
         with:
           name: shadowgfu-apk
           path: bin/*.apk
+          
